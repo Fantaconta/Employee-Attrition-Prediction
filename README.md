@@ -20,7 +20,7 @@ Employee attrition is both costly and disruptive. This project helps GTS address
 <img width="890" height="371" alt="hi" src="https://github.com/user-attachments/assets/76787d91-4c9b-41cf-9e99-318bdb42202d" />
 
 
-## Workflow Breakdown
+## Project Workflow
 
 ### 1. Data Understanding
 
