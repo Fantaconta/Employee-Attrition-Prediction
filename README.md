@@ -1,7 +1,5 @@
 # Employee Attrition Prediction
 
-Predicting employee turnover to improve workforce stability and HR decision-making
-
 ## Project Overview
 
 **Global Talent Solutions (GTS)** is a multinational company specializing in talent acquisition, employee training, and workforce analytics. As part of their mission to empower businesses through innovative HR solutions, this project aims to **predict employee attrition** using machine learning techniques and data-driven strategies.
